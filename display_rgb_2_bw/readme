@@ -1,0 +1,4 @@
+COMPILE:
+opencv DisplayImage.cpp 
+RUN: 
+./DisplayImage kaushik.jpg kaushik_BW.jpg
